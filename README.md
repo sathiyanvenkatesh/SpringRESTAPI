@@ -1,2 +1,2 @@
-# Redis
-refer Redis in VM debian.docx for implemenation details 
+# SpringRESTAPI
+Sample project to create SpringRESTAPI with HIBERNATE 
